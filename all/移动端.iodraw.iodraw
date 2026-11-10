@@ -25,8 +25,8 @@
         <mxCell id="An6UxyfyBORe4GtNyz-Q-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1" source="w2ELcJ2GMiQYhT6BqeaR-6" target="w2ELcJ2GMiQYhT6BqeaR-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w2ELcJ2GMiQYhT6BqeaR-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;前级送料泵启动，开始送料&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;labelBackgroundColor=none;fontColor=#1D3557;" parent="1" vertex="1">
-          <mxGeometry x="375" y="549" width="120" height="60" as="geometry" />
+        <mxCell id="w2ELcJ2GMiQYhT6BqeaR-6" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;前级送料泵启动，开始送料，结合压力自动调节转速&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;labelBackgroundColor=none;fontColor=#1D3557;" parent="1" vertex="1">
+          <mxGeometry x="352" y="549" width="143" height="60" as="geometry" />
         </mxCell>
         <mxCell id="An6UxyfyBORe4GtNyz-Q-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1" source="w2ELcJ2GMiQYhT6BqeaR-9" target="w2ELcJ2GMiQYhT6BqeaR-20">
           <mxGeometry relative="1" as="geometry" />
