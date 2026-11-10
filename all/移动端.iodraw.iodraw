@@ -45,11 +45,11 @@
         </mxCell>
         <mxCell id="An6UxyfyBORe4GtNyz-Q-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w2ELcJ2GMiQYhT6BqeaR-14" target="An6UxyfyBORe4GtNyz-Q-36">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="438.4782608695655" y="1171.0126811594203" as="targetPoint" />
+            <mxPoint x="438.4782608695655" y="1178.0126811594203" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="w2ELcJ2GMiQYhT6BqeaR-14" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;用户&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;按住动态混合器的按钮&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" parent="1" vertex="1">
-          <mxGeometry x="346.5" y="1075" width="177" height="60" as="geometry" />
+          <mxGeometry x="346.5" y="1082" width="177" height="60" as="geometry" />
         </mxCell>
         <mxCell id="An6UxyfyBORe4GtNyz-Q-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w2ELcJ2GMiQYhT6BqeaR-19" target="w2ELcJ2GMiQYhT6BqeaR-9">
           <mxGeometry relative="1" as="geometry">
@@ -117,22 +117,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="An6UxyfyBORe4GtNyz-Q-32" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;动态混合器按设定速度转动&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="365.5" y="1272" width="140" height="60" as="geometry" />
+          <mxGeometry x="365.5" y="1279" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="An6UxyfyBORe4GtNyz-Q-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1" source="An6UxyfyBORe4GtNyz-Q-34" target="An6UxyfyBORe4GtNyz-Q-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="An6UxyfyBORe4GtNyz-Q-34" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;以流量计的信号作为反馈，&lt;/span&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;控制计量泵电机转速，进而确保两端流量一致&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="357" y="1368" width="157" height="87" as="geometry" />
+          <mxGeometry x="357" y="1375" width="157" height="87" as="geometry" />
         </mxCell>
         <mxCell id="An6UxyfyBORe4GtNyz-Q-35" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;物料输出满足&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;1.5L/min 的要求&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="365.5" y="1491" width="140" height="60" as="geometry" />
+          <mxGeometry x="365.5" y="1498" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="An6UxyfyBORe4GtNyz-Q-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1" source="An6UxyfyBORe4GtNyz-Q-36" target="An6UxyfyBORe4GtNyz-Q-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="An6UxyfyBORe4GtNyz-Q-36" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;启动阀门，允许物料输入&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="365.5" y="1173" width="140" height="60" as="geometry" />
+          <mxGeometry x="365.5" y="1180" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="An6UxyfyBORe4GtNyz-Q-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1" source="An6UxyfyBORe4GtNyz-Q-36" target="An6UxyfyBORe4GtNyz-Q-36">
           <mxGeometry relative="1" as="geometry" />
@@ -167,8 +167,8 @@
         </mxCell>
         <mxCell id="An6UxyfyBORe4GtNyz-Q-54" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="An6UxyfyBORe4GtNyz-Q-34">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="634" y="1412" as="sourcePoint" />
-            <mxPoint x="520" y="1411.5" as="targetPoint" />
+            <mxPoint x="634" y="1419" as="sourcePoint" />
+            <mxPoint x="520" y="1418.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="An6UxyfyBORe4GtNyz-Q-55" value="反馈" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" connectable="0" vertex="1" parent="An6UxyfyBORe4GtNyz-Q-54">
