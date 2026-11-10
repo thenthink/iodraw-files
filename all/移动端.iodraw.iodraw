@@ -161,10 +161,10 @@
             <mxPoint x="-29" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="An6UxyfyBORe4GtNyz-Q-51" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="An6UxyfyBORe4GtNyz-Q-51" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="w2ELcJ2GMiQYhT6BqeaR-9">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="487" y="581" as="sourcePoint" />
-            <mxPoint x="382" y="581" as="targetPoint" />
+            <mxPoint x="486" y="787.5699999999999" as="sourcePoint" />
+            <mxPoint x="381" y="787.5699999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="An6UxyfyBORe4GtNyz-Q-52" value="反馈" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" connectable="0" vertex="1" parent="An6UxyfyBORe4GtNyz-Q-51">
@@ -172,7 +172,7 @@
         </mxCell>
         <mxCell id="An6UxyfyBORe4GtNyz-Q-53" value="压力传感器" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" connectable="0" vertex="1" parent="An6UxyfyBORe4GtNyz-Q-51">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="-29" y="-1" as="offset" />
+            <mxPoint x="-41" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
