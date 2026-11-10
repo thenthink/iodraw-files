@@ -170,9 +170,9 @@
         <mxCell id="An6UxyfyBORe4GtNyz-Q-52" value="反馈" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" connectable="0" vertex="1" parent="An6UxyfyBORe4GtNyz-Q-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="An6UxyfyBORe4GtNyz-Q-53" value="压力传感器" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" connectable="0" vertex="1" parent="An6UxyfyBORe4GtNyz-Q-51">
+        <mxCell id="An6UxyfyBORe4GtNyz-Q-53" value="流量计" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" connectable="0" vertex="1" parent="An6UxyfyBORe4GtNyz-Q-51">
           <mxGeometry x="-1" relative="1" as="geometry">
-            <mxPoint x="-41" y="-1" as="offset" />
+            <mxPoint x="-34" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
