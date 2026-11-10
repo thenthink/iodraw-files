@@ -31,8 +31,8 @@
         <mxCell id="w2ELcJ2GMiQYhT6BqeaR-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;HMI 点击 “灌注使能”&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="138.5" y="283" width="177" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w2ELcJ2GMiQYhT6BqeaR-14" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;HMI 点击 “灌注使能”&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
-          <mxGeometry x="148.5" y="293" width="177" height="60" as="geometry" />
+        <mxCell id="w2ELcJ2GMiQYhT6BqeaR-14" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;按住动态混合器的按钮&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
+          <mxGeometry x="524" y="283" width="177" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
