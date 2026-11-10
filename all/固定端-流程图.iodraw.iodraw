@@ -4,8 +4,8 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="c5v0kUXjA-qhtq1yyvUg-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;椭圆&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="345" y="263" width="135" height="68" as="geometry" />
+        <mxCell id="c5v0kUXjA-qhtq1yyvUg-1" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;上电，系统启动&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="346" y="213" width="135" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
