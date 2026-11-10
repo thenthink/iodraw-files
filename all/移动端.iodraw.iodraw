@@ -31,7 +31,7 @@
         <mxCell id="An6UxyfyBORe4GtNyz-Q-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1" source="w2ELcJ2GMiQYhT6BqeaR-9" target="w2ELcJ2GMiQYhT6BqeaR-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w2ELcJ2GMiQYhT6BqeaR-9" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;启动计量泵，输送物料&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;labelBackgroundColor=none;fontColor=#1D3557;" parent="1" vertex="1">
+        <mxCell id="w2ELcJ2GMiQYhT6BqeaR-9" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;启动计量泵，按设定速度转动，输送物料&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;labelBackgroundColor=none;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="252" y="758" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w2ELcJ2GMiQYhT6BqeaR-11" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;“灌注使能” 完毕&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;labelBackgroundColor=none;fontColor=#1D3557;" parent="1" vertex="1">
@@ -77,7 +77,7 @@
             <mxPoint x="472" y="663" as="sourcePoint" />
             <mxPoint x="522" y="613" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="530" y="1008" />
+              <mxPoint x="532" y="1010" />
               <mxPoint x="528" y="345" />
             </Array>
           </mxGeometry>
