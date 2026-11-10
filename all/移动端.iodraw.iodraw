@@ -98,8 +98,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="An6UxyfyBORe4GtNyz-Q-18" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="382" y="491" width="60" height="30" as="geometry" />
+        <mxCell id="An6UxyfyBORe4GtNyz-Q-18" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="261" y="477" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
