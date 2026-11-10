@@ -4,11 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="w2ELcJ2GMiQYhT6BqeaR-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;strokeColor=#457B9D;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
+        <mxCell id="w2ELcJ2GMiQYhT6BqeaR-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;hachureGap=4;strokeColor=#457B9D;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontColor=#1D3557;fillColor=#A8DADC;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="167" y="107" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w2ELcJ2GMiQYhT6BqeaR-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="178" y="246" width="120" height="60" as="geometry" />
+        <mxCell id="w2ELcJ2GMiQYhT6BqeaR-2" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="167" y="211" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
