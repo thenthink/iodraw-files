@@ -14,7 +14,7 @@
           <mxGeometry x="167" y="283" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w2ELcJ2GMiQYhT6BqeaR-5" value="监测A/B液位、温度及设备&lt;div&gt;状态是否正常？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
-          <mxGeometry x="131" y="377" width="192" height="95" as="geometry" />
+          <mxGeometry x="131" y="371" width="192" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
