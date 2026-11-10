@@ -153,7 +153,7 @@
             <mxPoint x="486" y="694" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="An6UxyfyBORe4GtNyz-Q-41" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;压力传感器&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="An6UxyfyBORe4GtNyz-Q-41" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#7ea6e0&quot;&gt;压力传感器&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="419" y="558" width="74" height="27" as="geometry" />
         </mxCell>
       </root>
