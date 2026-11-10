@@ -147,19 +147,10 @@
         <mxCell id="An6UxyfyBORe4GtNyz-Q-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1" source="An6UxyfyBORe4GtNyz-Q-36" target="An6UxyfyBORe4GtNyz-Q-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="An6UxyfyBORe4GtNyz-Q-41" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#7ea6e0&quot;&gt;压力传感器&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="420" y="557.5" width="74" height="27" as="geometry" />
-        </mxCell>
         <mxCell id="An6UxyfyBORe4GtNyz-Q-45" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;font color=&quot;#7ea6e0&quot;&gt;流量计&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="414" y="774.5" width="74" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="An6UxyfyBORe4GtNyz-Q-47" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="415" y="571" as="sourcePoint" />
-            <mxPoint x="374" y="570.5699999999999" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="An6UxyfyBORe4GtNyz-Q-48" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1">
+        <mxCell id="An6UxyfyBORe4GtNyz-Q-48" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="w2ELcJ2GMiQYhT6BqeaR-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="381" y="719" as="sourcePoint" />
             <mxPoint x="541" y="719" as="targetPoint" />
