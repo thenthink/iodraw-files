@@ -22,6 +22,9 @@
         <mxCell id="c5v0kUXjA-qhtq1yyvUg-7" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;脱泡完成，连接管子，&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;准备输料&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="278" y="575" width="181.87" height="86" as="geometry" />
         </mxCell>
+        <mxCell id="c5v0kUXjA-qhtq1yyvUg-8" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="512" y="412" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
