@@ -132,7 +132,7 @@
         <mxCell id="An6UxyfyBORe4GtNyz-Q-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1" source="An6UxyfyBORe4GtNyz-Q-34" target="An6UxyfyBORe4GtNyz-Q-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="An6UxyfyBORe4GtNyz-Q-34" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;以流量计的信号作为反馈，结合控制算法&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;控制计量泵电机转速，进而确保两端流量一致&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="1">
+        <mxCell id="An6UxyfyBORe4GtNyz-Q-34" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;以流量计的信号作为反馈，&lt;/span&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;控制计量泵电机转速，进而确保两端流量一致&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="1">
           <mxGeometry x="742" y="618" width="157" height="87" as="geometry" />
         </mxCell>
         <mxCell id="An6UxyfyBORe4GtNyz-Q-35" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;物料输出满足&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;1.5L/min 的要求&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="1">
