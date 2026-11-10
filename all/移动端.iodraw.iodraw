@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.7.0 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="XNdbNEEKKx8PrCSTaOKa">
-    <mxGraphModel dx="1221" dy="812" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1744" dy="1160" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -33,6 +33,9 @@
         </mxCell>
         <mxCell id="w2ELcJ2GMiQYhT6BqeaR-9" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;启动计量泵，按设定速度转动，输送物料&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;labelBackgroundColor=none;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="375" y="766" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="An6UxyfyBORe4GtNyz-Q-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1" source="w2ELcJ2GMiQYhT6BqeaR-11" target="w2ELcJ2GMiQYhT6BqeaR-14">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w2ELcJ2GMiQYhT6BqeaR-11" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;“灌注使能” 完毕&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;labelBackgroundColor=none;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="375" y="988" width="120" height="60" as="geometry" />
@@ -126,7 +129,7 @@
           <mxGeometry x="357" y="1375" width="157" height="87" as="geometry" />
         </mxCell>
         <mxCell id="An6UxyfyBORe4GtNyz-Q-35" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;物料输出满足&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;1.5L/min 的要求&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="365.5" y="1498" width="140" height="60" as="geometry" />
+          <mxGeometry x="365.5" y="1493" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="An6UxyfyBORe4GtNyz-Q-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1" source="An6UxyfyBORe4GtNyz-Q-36" target="An6UxyfyBORe4GtNyz-Q-32">
           <mxGeometry relative="1" as="geometry" />
