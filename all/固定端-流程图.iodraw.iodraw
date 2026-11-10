@@ -22,7 +22,7 @@
         <mxCell id="c5v0kUXjA-qhtq1yyvUg-8" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;HMI设置 “高速搅拌”&amp;nbsp;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;和 “低速搅拌” 的速度&lt;/span&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="240.99999999999997" y="270" width="215.07" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="c5v0kUXjA-qhtq1yyvUg-9" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;启动空压机&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c5v0kUXjA-qhtq1yyvUg-9" value="&lt;span style=&quot;font-size: 15px;&quot;&gt;HMI点击 “开始输料”，&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;空压机按设定压力启动，&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;物料开始输送&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="257.6" y="751" width="181.87" height="86" as="geometry" />
         </mxCell>
       </root>
