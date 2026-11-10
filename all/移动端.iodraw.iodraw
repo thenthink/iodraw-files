@@ -154,10 +154,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="An6UxyfyBORe4GtNyz-Q-41" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;压力传感器&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1D3557;" vertex="1" parent="1">
-          <mxGeometry x="408" y="557.5" width="60" height="27" as="geometry" />
-        </mxCell>
-        <mxCell id="An6UxyfyBORe4GtNyz-Q-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1" source="An6UxyfyBORe4GtNyz-Q-41" target="An6UxyfyBORe4GtNyz-Q-41">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="419" y="558" width="74" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
