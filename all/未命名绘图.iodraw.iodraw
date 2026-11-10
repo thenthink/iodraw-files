@@ -22,6 +22,9 @@
         <mxCell id="w2ELcJ2GMiQYhT6BqeaR-8" value="计量泵入口压力是否满足&lt;div&gt;要求？&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" vertex="1" parent="1">
           <mxGeometry x="131" y="582" width="192" height="95" as="geometry" />
         </mxCell>
+        <mxCell id="w2ELcJ2GMiQYhT6BqeaR-9" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;启动计量泵，输送物料&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;labelBackgroundColor=none;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="167" y="705" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
