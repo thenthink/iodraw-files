@@ -175,6 +175,20 @@
             <mxPoint x="-34" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="An6UxyfyBORe4GtNyz-Q-54" value="" style="endArrow=classic;html=1;rounded=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="An6UxyfyBORe4GtNyz-Q-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="896" y="653.0699999999999" as="sourcePoint" />
+            <mxPoint x="782" y="653.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="An6UxyfyBORe4GtNyz-Q-55" value="反馈" style="edgeLabel;resizable=0;html=1;;align=center;verticalAlign=middle;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" connectable="0" vertex="1" parent="An6UxyfyBORe4GtNyz-Q-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="An6UxyfyBORe4GtNyz-Q-56" value="流量计" style="edgeLabel;resizable=0;html=1;;align=left;verticalAlign=bottom;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" connectable="0" vertex="1" parent="An6UxyfyBORe4GtNyz-Q-54">
+          <mxGeometry x="-1" relative="1" as="geometry">
+            <mxPoint x="-34" as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
