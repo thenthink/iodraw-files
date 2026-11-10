@@ -40,6 +40,9 @@
         <mxCell id="w2ELcJ2GMiQYhT6BqeaR-12" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;HMI 点击 “灌注使能”&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" parent="1" vertex="1">
           <mxGeometry x="138.5" y="283" width="177" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="An6UxyfyBORe4GtNyz-Q-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1" source="w2ELcJ2GMiQYhT6BqeaR-14" target="w2ELcJ2GMiQYhT6BqeaR-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="w2ELcJ2GMiQYhT6BqeaR-14" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;按住动态混合器的按钮&lt;/span&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" parent="1" vertex="1">
           <mxGeometry x="524" y="283" width="177" height="60" as="geometry" />
         </mxCell>
@@ -48,6 +51,9 @@
         </mxCell>
         <mxCell id="w2ELcJ2GMiQYhT6BqeaR-16" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;计量泵根据流量计的信号作为反馈，&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;控制电机转速，确保两端流量一致&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;labelBackgroundColor=none;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="537.5" y="623" width="157" height="87" as="geometry" />
+        </mxCell>
+        <mxCell id="An6UxyfyBORe4GtNyz-Q-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1" source="w2ELcJ2GMiQYhT6BqeaR-17" target="w2ELcJ2GMiQYhT6BqeaR-15">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="w2ELcJ2GMiQYhT6BqeaR-17" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;物料是否就位&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" parent="1" vertex="1">
           <mxGeometry x="516.5" y="379" width="192" height="112" as="geometry" />
@@ -81,7 +87,7 @@
             <mxPoint x="387" y="631" as="sourcePoint" />
             <mxPoint x="437" y="581" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="424" y="978" />
+              <mxPoint x="427" y="978" />
               <mxPoint x="427" y="313" />
             </Array>
           </mxGeometry>
