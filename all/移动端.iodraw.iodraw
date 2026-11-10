@@ -65,7 +65,7 @@
           <mxGeometry x="516.5" y="379" width="192" height="112" as="geometry" />
         </mxCell>
         <mxCell id="w2ELcJ2GMiQYhT6BqeaR-18" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;物料输出满足&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;1.5L/min 的要求&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;labelBackgroundColor=none;fontColor=#1D3557;" parent="1" vertex="1">
-          <mxGeometry x="546" y="746" width="140" height="60" as="geometry" />
+          <mxGeometry x="542.5" y="746" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="An6UxyfyBORe4GtNyz-Q-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" edge="1" parent="1" source="w2ELcJ2GMiQYhT6BqeaR-19">
           <mxGeometry relative="1" as="geometry">
@@ -97,6 +97,9 @@
               <mxPoint x="427" y="313" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="An6UxyfyBORe4GtNyz-Q-18" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="382" y="491" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
