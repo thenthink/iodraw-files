@@ -26,7 +26,7 @@
           <mxGeometry x="167" y="509" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w2ELcJ2GMiQYhT6BqeaR-9" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;启动计量泵，输送物料&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;labelBackgroundColor=none;fontColor=#1D3557;" parent="1" vertex="1">
-          <mxGeometry x="167" y="722" width="120" height="60" as="geometry" />
+          <mxGeometry x="167" y="726" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w2ELcJ2GMiQYhT6BqeaR-11" value="&lt;span style=&quot;font-size: 14px;&quot;&gt;“灌注使能” 完毕&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#A8DADC;strokeColor=#457B9D;labelBackgroundColor=none;fontColor=#1D3557;" parent="1" vertex="1">
           <mxGeometry x="167" y="948" width="120" height="60" as="geometry" />
