@@ -134,10 +134,13 @@
             <mxPoint x="436" y="825" as="sourcePoint" />
             <mxPoint x="486" y="775" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="147" y="897" />
+              <mxPoint x="149" y="897" />
               <mxPoint x="149" y="788" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="An6UxyfyBORe4GtNyz-Q-27" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;否&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#1D3557;" vertex="1" parent="1">
+          <mxGeometry x="144" y="659" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
